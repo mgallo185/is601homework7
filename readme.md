@@ -11,11 +11,12 @@ the target website. You must make your program generate a QR code that takes som
 ## Submission Requirements:
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
-https://github.com/mgallo185/is601homework7/blob/main/QRCode_20250326200127.png
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/574079bc-5f68-4b8e-ab5a-bc4110429f95" />
 
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
-https://github.com/mgallo185/is601homework7/blob/main/logs2.png
+<img width="539" alt="logs3" src="https://github.com/user-attachments/assets/46584047-0fef-424a-a27e-4bcd09e7b097" />
+<img width="599" alt="logs4" src="https://github.com/user-attachments/assets/ea1f1e8d-48eb-43e8-96c3-047d960dea1d" />
 
 ## Lesson Video
 
